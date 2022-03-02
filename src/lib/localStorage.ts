@@ -5,9 +5,6 @@ const highContrastKey = 'highContrast'
 
 }
 
-
-}
-
 const gameStatKey = 'gameStats'
 
 export type GameStats = {
